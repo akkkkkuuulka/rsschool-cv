@@ -1,3 +1,5 @@
+
+
 # Bulanova Ekaterina
 ### Junior Frontend Developer
 
@@ -39,3 +41,17 @@ function evenOrOdd(number) {
   }
 }
 ```
+---
+
+
+### Courses:
+
+- HTML and CSS Tutorials on [FreeCodeCamp](https://www.freecodecamp.org/news/tag/online-courses/)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
+### Languages:
+
+- English \- Intermediate
+- Russian \- Native
